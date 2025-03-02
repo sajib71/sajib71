@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sajib71
-- 👀 I’m interested in Embedded Systems,PCB Layout design and Firmware Development.
+- 👀 I’m interested in Embedded Systems, PCB Layout design & Firmware Development.
 - 🌱 I’m currently learning Altium PCB design software.
-- 💞️ I’m looking to collaborate on PCB layout design and Firmware Development.
+- 💞️ I’m looking to collaborate on PCB layout design & Firmware Development.
 - 📫 How to reach me : mail me at sajib71208@gmail.com
 
 <!---
